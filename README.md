@@ -115,6 +115,5 @@ function showVideo(){
         .classList.add("active");
 }
 </script>
-
 </body>
 </html>
